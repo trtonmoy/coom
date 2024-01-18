@@ -118,6 +118,9 @@ nav img {
   img.hero {
     width: 100%;
   }
+  img {
+    width: 95%;
+  }
   .ca {
     font-size: 13px;
   }
